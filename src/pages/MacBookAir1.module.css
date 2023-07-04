@@ -1,0 +1,106 @@
+.emailForm {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 245px;
+  left: 111px;
+}
+.signInButton {
+  position: absolute;
+  top: 474px;
+  left: 109px;
+}
+.freeIconGoogle3002211 {
+  position: absolute;
+  top: 6.2px;
+  left: 66.1px;
+  width: 28.92px;
+  height: 28.92px;
+  object-fit: cover;
+}
+.signInWith {
+  position: absolute;
+  top: 9.3px;
+  left: 101.21px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 147.69px;
+  height: 21.69px;
+}
+.signInButtonGoogle {
+  position: absolute;
+  top: 549px;
+  left: 117px;
+  border-radius: 12px;
+  background-color: transparent;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 313.97px;
+  height: 41.31px;
+}
+.span {
+  color: var(--color-black);
+}
+.signUpFo {
+  color: #ea454c;
+}
+.dontHaveAnContainer,
+.forgotPassword,
+.rememberMe {
+  position: absolute;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+}
+.dontHaveAnContainer {
+  top: 636px;
+  left: 164px;
+  font-size: 10px;
+  width: 216px;
+  height: 15px;
+  color: #595959;
+}
+.forgotPassword,
+.rememberMe {
+  top: 0;
+  left: 198.3px;
+  width: 110.51px;
+  height: 18.59px;
+}
+.rememberMe {
+  left: 20.66px;
+  width: 98.11px;
+}
+.rememberForgotChild {
+  position: absolute;
+  top: 2.07px;
+  left: 0;
+  border-radius: 4px;
+  background-color: transparent;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 14.46px;
+  height: 13.43px;
+}
+.rememberForgot {
+  position: absolute;
+  top: 423px;
+  left: 112px;
+  width: 308.8px;
+  height: 18.59px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.macbookAir1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
